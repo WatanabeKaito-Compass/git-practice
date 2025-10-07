@@ -1,0 +1,16 @@
+# データフォルダ
+data/
+
+# IDEファイル
+.idea/
+*.iml
+.vscode/
+
+# ビルド関連
+target/
+*.class
+
+# OS関連
+.DS_Store
+Thumbs.db
+
